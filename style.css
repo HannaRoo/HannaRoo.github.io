@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+}
+img{
+    border-radius: 3px;
+    margin-top: 2%;
+}
+h1{
+    text-align: center;
+    background-color:rgba(119, 136, 153, 0.5);
+    color:black;
+    padding: 3%;
+    margin-top: 0%;
+}
+.navbar{
+    margin-bottom: 0px;
+    background-color: orange;
+}
+.rounded-circle{
+    border-radius: 50%;
+    width: 30%;
+    margin-left: 5%;
+    text-align: center;
+}
+footer{
+    background-color:orange;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
